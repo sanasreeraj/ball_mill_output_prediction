@@ -8,8 +8,6 @@ This project involves the development of a predictive machine learning model for
 
 The model is built using historical process data, including parameters such as feed rates, motor currents, system temperatures, and differential pressures. A Random Forest Regressor is used to perform multi-output regression, offering high accuracy in predicting material distributions.
 
-The resulting model is intended for real-time deployment in industrial environments, such as SCADA (Supervisory Control and Data Acquisition) or DCS (Distributed Control Systems), enabling proactive control strategies and continuous process optimization.
-
 ---
 
 ## Methodology
